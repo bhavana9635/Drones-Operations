@@ -6,7 +6,7 @@ AI assistant to help Skylark manage **pilots**, **drones**, and **missions** wit
 
 ## Live Demo
 
-Hosted app: **[link coming soon]**
+Hosted app: **https://drones-operations-imr6zmeytdtvek4a2g6osg.streamlit.app/**
 
 ---
 
